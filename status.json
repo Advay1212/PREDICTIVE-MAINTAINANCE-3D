@@ -1,0 +1,13 @@
+{
+  "current_data": {
+    "bed_temp": 60.48909298741005,
+    "filament_status": "ok",
+    "nozzle_temp": 211.8551344003885,
+    "print_progress": 28.102139870325725,
+    "printer_status": "printing",
+    "timestamp": "2025-11-09T13:03:04.466948"
+  },
+  "active_alerts": [],
+  "last_updated": "2025-11-09T13:03:04.592532",
+  "system_status": "normal"
+}

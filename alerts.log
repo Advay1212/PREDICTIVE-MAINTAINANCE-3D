@@ -1,0 +1,125 @@
+2025-11-09 12:44:12,379 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 226.5°C
+2025-11-09 12:44:17,493 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 233.3°C
+2025-11-09 12:44:22,607 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 235.6°C
+2025-11-09 12:44:27,688 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 232.6°C
+2025-11-09 12:44:32,801 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 239.5°C
+2025-11-09 12:44:37,883 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 237.9°C
+2025-11-09 12:44:44,014 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:44:44,014 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:44:49,162 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:44:49,163 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:44:54,243 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:44:54,244 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:44:59,408 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:44:59,408 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:45:04,488 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:45:04,488 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:45:09,645 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:45:09,645 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:45:14,793 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:45:14,794 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:45:19,873 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:45:19,873 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:45:24,955 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:45:24,956 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:45:30,103 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:45:30,104 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:45:35,184 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:45:35,185 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:47:18,684 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 23.3°C
+2025-11-09 12:47:34,956 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 23.4°C
+2025-11-09 12:49:08,601 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 225.0°C
+2025-11-09 12:49:13,746 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 229.0°C
+2025-11-09 12:49:18,896 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 232.3°C
+2025-11-09 12:49:23,974 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 235.5°C
+2025-11-09 12:49:29,123 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 235.0°C
+2025-11-09 12:49:34,270 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 238.7°C
+2025-11-09 12:49:39,418 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 238.6°C
+2025-11-09 12:49:44,483 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:49:44,483 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:49:49,566 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:49:49,566 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:49:54,713 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:49:54,713 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:49:59,879 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:49:59,879 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:50:05,007 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:50:05,007 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:50:10,076 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:50:10,076 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:50:15,247 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:50:15,247 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:50:20,395 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:50:20,395 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:50:25,478 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:50:25,478 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:50:30,626 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:50:30,626 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:50:35,773 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:50:35,774 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:52:34,666 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 24.0°C
+2025-11-09 12:54:03,081 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 224.7°C
+2025-11-09 12:54:08,229 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 227.3°C
+2025-11-09 12:54:14,433 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 228.0°C
+2025-11-09 12:54:19,547 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 229.7°C
+2025-11-09 12:54:24,663 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 237.1°C
+2025-11-09 12:54:29,808 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 238.8°C
+2025-11-09 12:54:34,882 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 237.4°C
+2025-11-09 12:54:40,011 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 242.2°C
+2025-11-09 12:54:45,151 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:54:45,152 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:54:50,299 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:54:50,299 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:54:55,464 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:54:55,464 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:55:00,612 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:55:00,612 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:55:05,731 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:55:05,731 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:55:10,878 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:55:10,878 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:55:16,027 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:55:16,027 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:55:21,174 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:55:21,175 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:55:26,322 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:55:26,323 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:55:31,470 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:55:31,470 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:55:37,651 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:55:37,651 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:57:26,835 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 23.6°C
+2025-11-09 12:59:06,009 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 225.6°C
+2025-11-09 12:59:11,157 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 229.5°C
+2025-11-09 12:59:16,305 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 233.2°C
+2025-11-09 12:59:21,453 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 234.0°C
+2025-11-09 12:59:26,601 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 233.9°C
+2025-11-09 12:59:31,748 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 234.4°C
+2025-11-09 12:59:36,898 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 239.6°C
+2025-11-09 12:59:42,041 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:59:42,041 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:59:48,051 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:59:48,051 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:59:53,203 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:59:53,203 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 12:59:58,351 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 12:59:58,351 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 13:00:03,499 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 13:00:03,500 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 13:00:08,647 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 13:00:08,648 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 13:00:13,795 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 13:00:13,795 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 13:00:18,943 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 13:00:18,944 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 13:00:24,088 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 13:00:24,088 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 13:00:29,247 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 13:00:29,247 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 13:00:34,394 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 13:00:34,395 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 13:00:39,542 - ERROR - Hard Failure Alert: Printer in error state
+2025-11-09 13:00:39,542 - WARNING - Filament Jam Alert: Filament is jammed
+2025-11-09 13:01:51,779 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 23.3°C
+2025-11-09 13:02:02,087 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 23.4°C
+2025-11-09 13:02:07,234 - WARNING - Predictive Alert: Potential Overheating Detected! Temp: 23.1°C
