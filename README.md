@@ -1,3 +1,4 @@
+PLEASE NOTE THIS IS JUST A DUMMY PROGRAM JUST FOR DEVELOPERS TO HAVE A CLEAR VISUALIZATION OF HOW THE PREDICTIVE SYSTEM ACTUALLY LOOKS LIKE AND SHALL NOT BE TREATED AS A FINAL AND POLISHED PROTOTYPE 
 # 3D Printer Predictive Maintenance System
 
 A complete end-to-end predictive maintenance system for 3D printers with real-time monitoring and anomaly detection.
